@@ -96,6 +96,8 @@ Aplikasi akan terbuka pada browser melalui alamat:
 http://localhost:8501
 ```
 
+Jika sudah selesai menggunakan, bisa tekan Ctrl + C ke terminal yang dijalankan
+
 ## Cara Penggunaan
 
 1. Jalankan aplikasi Streamlit.
