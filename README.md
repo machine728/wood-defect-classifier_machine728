@@ -122,5 +122,8 @@ Jika sudah selesai menggunakan, bisa tekan Ctrl + C ke terminal yang dijalankan
 * Bahasa Pemrograman: Python
 * Framework Antarmuka: Streamlit
 
+## Dataset
+link:
 ```
+https://www.kaggle.com/datasets/kirs0816/wood-surface-defects
 ```
